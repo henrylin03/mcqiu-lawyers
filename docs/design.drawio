@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T07:00:06.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="o1-4zJbQibPUNtNM4oPq" version="24.1.0" type="device" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-27T23:36:31.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="H3otVkm0v-P_OtTOp0rw" version="24.1.0" type="device" pages="5">
   <diagram name="assets" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="-10407" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
       <root>
@@ -37,13 +37,13 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="8i3EXRB4sAIUTVz9Crl-" name="home">
-    <mxGraphModel dx="2049" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+  <diagram id="8i3EXRB4sAIUTVz9Crl-" name="page: home">
+    <mxGraphModel dx="2206" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Xjx0grxreHXb90qruqwC-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="45" y="40" width="1510" height="1890" as="geometry" />
+          <mxGeometry x="45" y="40" width="1510" height="3410" as="geometry" />
         </mxCell>
         <mxCell id="Xjx0grxreHXb90qruqwC-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Montserrat&quot;&gt;McQiu Lawyers&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
           <mxGeometry x="60" y="12" width="170" height="26" as="geometry" />
@@ -55,24 +55,24 @@
           <mxGeometry x="195" y="120" width="428" height="82" as="geometry" />
         </mxCell>
         <mxCell id="8yPBcZ-2cWv9pClR8Q93-3" value="&lt;font&gt;About Us&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
-          <mxGeometry x="1045" y="146" width="85" height="30" as="geometry" />
+          <mxGeometry x="1005" y="146" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8yPBcZ-2cWv9pClR8Q93-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Enquire&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#247404;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
-          <mxGeometry x="1175" y="136.5" width="125" height="49" as="geometry" />
+        <mxCell id="8yPBcZ-2cWv9pClR8Q93-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Book a consult&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#247404;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="1135" y="136.5" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_FqBZBqTFO89XHhkPb4d-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=none;fillColor=#bac8d3;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
-          <mxGeometry x="780" y="265" width="520" height="255" as="geometry" />
+          <mxGeometry x="780" y="265" width="520" height="285" as="geometry" />
         </mxCell>
-        <mxCell id="_FqBZBqTFO89XHhkPb4d-2" value="We&#39;re here with you&lt;div style=&quot;font-size: 15px; line-height: 200%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px; line-height: 200%;&quot;&gt;With a diverse range of legal services offered, our dedicated team can help you navigate your complex legal problems.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=50;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;horizontal=1;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
-          <mxGeometry x="215" y="270" width="515" height="250" as="geometry" />
+        <mxCell id="_FqBZBqTFO89XHhkPb4d-2" value="Comprehensive legal support&lt;div style=&quot;font-size: 15px; line-height: 200%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px; line-height: 200%;&quot;&gt;With a diverse range of legal services offered, our dedicated team can help you navigate your complex legal problems.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=50;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;horizontal=1;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="212" y="250" width="515" height="250" as="geometry" />
         </mxCell>
         <mxCell id="e-P1rU9MizuhL_VrLOLM-3" value="" style="group" vertex="1" connectable="0" parent="Xjx0grxreHXb90qruqwC-2">
-          <mxGeometry x="215" y="460" width="420" height="49" as="geometry" />
+          <mxGeometry x="215" y="500" width="420" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="e-P1rU9MizuhL_VrLOLM-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Enquire&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#247404;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="e-P1rU9MizuhL_VrLOLM-3">
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Book a consult&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#247404;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="e-P1rU9MizuhL_VrLOLM-3">
           <mxGeometry width="197.5" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="e-P1rU9MizuhL_VrLOLM-2" value="&lt;font color=&quot;#247404&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Learn More&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=none;strokeColor=#247404;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeWidth=2;" vertex="1" parent="e-P1rU9MizuhL_VrLOLM-3">
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-2" value="&lt;font color=&quot;#247404&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Our services&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=none;strokeColor=#247404;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeWidth=2;" vertex="1" parent="e-P1rU9MizuhL_VrLOLM-3">
           <mxGeometry x="222.5" width="197.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e-P1rU9MizuhL_VrLOLM-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Montserrat; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;We can help you with&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
@@ -135,7 +135,7 @@
         <mxCell id="e-P1rU9MizuhL_VrLOLM-108" value="" style="line;strokeWidth=2;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;strokeColor=#247404;container=0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
           <mxGeometry x="285" y="976" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="e-P1rU9MizuhL_VrLOLM-112" value="&lt;p style=&quot;line-height: 150%; font-size: 19px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;&lt;b&gt;Preparing to enter a relationship/marriage&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;container=0;fontSize=19;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-112" value="&lt;p style=&quot;line-height: 150%; font-size: 19px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;&lt;b&gt;Preparing to enter a relationship or marriage&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;container=0;fontSize=19;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
           <mxGeometry x="521.25" y="870" width="188.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e-P1rU9MizuhL_VrLOLM-113" value="&lt;font color=&quot;#247404&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Find out more&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=none;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeWidth=2;container=0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
@@ -197,6 +197,405 @@
         </mxCell>
         <mxCell id="e-P1rU9MizuhL_VrLOLM-133" value="&lt;p style=&quot;line-height: 150%; font-size: 19px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;&lt;b&gt;Resolving civil disputes&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;container=0;fontSize=19;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
           <mxGeometry x="1052.5" y="870" width="225" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-134" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Montserrat; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Why McQiu?&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="215" y="1410" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-135" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="715.5" y="1500" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-136" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;&lt;b&gt;Proven track record&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;container=0;fontSize=19;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="653" y="1623" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-137" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="1108" y="1500" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-138" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;&lt;b&gt;One-stop shop&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;container=0;fontSize=19;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="1045.5" y="1620" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-139" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="292.5" y="1500" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-140" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;&lt;b&gt;Personalised care&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;container=0;fontSize=19;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="230" y="1620" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-141" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;We treat you like family, not just another &quot;case&quot;.&amp;nbsp; We understand that each case is specific, and our advice is tailored specifically for you.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=top;container=0;fontSize=19;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="230" y="1640" width="225" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-142" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;With over 50 years of combined experience, and a trail of satisfied clients, you can trust us to deliver results.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;container=0;fontSize=19;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="653" y="1660" width="225" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-144" value="&lt;p style=&quot;line-height: 139%;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Our team is well-versed in various legal areas, so you don&#39;t need to juggle multiple&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 15px; font-family: Montserrat; background-color: initial;&quot;&gt;law firms.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;container=0;fontSize=19;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="1046.25" y="1660" width="237.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-145" value="&lt;font color=&quot;#247404&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Meet our team&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=none;strokeColor=#247404;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeWidth=2;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="666.25" y="1800" width="197.5" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-146" value="&lt;font color=&quot;#247404&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Contact us&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;fillColor=none;strokeColor=#247404;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeWidth=2;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="1067" y="1800" width="197.5" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-147" value="&lt;font color=&quot;#247404&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Book a consult&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;fillColor=none;strokeColor=#247404;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;strokeWidth=2;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="245" y="1800" width="197.5" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-148" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Montserrat; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Our offices&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="215" y="1940" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-149" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;&lt;b&gt;Sydney (Chatswood)&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="215" y="1990" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-150" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.map;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="218.75" y="2040" width="1051.25" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-152" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="218.75" y="2320.62" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-154" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Suite 22, Level 11&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;809-811 Pacific Highway&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Chatswood NSW 2067&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="265" y="2330" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-155" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="633.13" y="2320.62" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-157" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;(02) 8036 8333&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;(02) 8036 8334&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;(02) 8036 8335&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;(02) 8036 8336&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="675" y="2349.37" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-160" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=#23445d;shadow=0;fillColor=#bac8d3;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.maps_api;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="669" y="2060" width="61" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-162" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Contact Us&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#247404;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="1072.5" y="2320.62" width="197.5" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-163" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;&lt;b&gt;China&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="218.75" y="2500" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-164" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.map;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="218.75" y="2570" width="481" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-165" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.map;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="783.5" y="2570" width="481" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-166" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="218.75" y="2840" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-167" value="&lt;p style=&quot;line-height: 100%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;C104, Building E, Level 2&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-family: Montserrat; background-color: initial;&quot;&gt;International Offshore Innovation Building&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Montserrat; background-color: initial;&quot;&gt;FullsingTown&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Montserrat; background-color: initial;&quot;&gt;Haikou Hainan&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="265" y="2850" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-170" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="783.5" y="2845" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-171" value="&lt;p style=&quot;line-height: 100%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;Suite 307&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: Montserrat; background-color: initial;&quot;&gt;Incubation Centre&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Montserrat; background-color: initial;&quot;&gt;Hainan Resort Software Community&lt;br&gt;Laocheng Hi-tech Demonstration Zone&lt;br&gt;Chengmai Hainan&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="827.5" y="2860" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-172" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=#23445d;shadow=0;fillColor=#bac8d3;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.maps_api;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="378.5" y="2620" width="61" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-173" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=#23445d;shadow=0;fillColor=#bac8d3;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.maps_api;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="952" y="2620" width="61" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-174" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="502" y="2840" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-175" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;6671 5183&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="545" y="2834.38" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-176" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Montserrat; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;(02) 8036 8338&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="904" y="2320.62" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-177" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="857.75" y="2320.62" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-179" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="502" y="2890" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-180" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;1818 9746 163&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="545" y="2879.37" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-181" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="1095.25" y="2845.01" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-182" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;1818 9746 163&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="1138.25" y="2834.38" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zUydLLpw8RZfpIZgESQJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="Xjx0grxreHXb90qruqwC-2" source="e-P1rU9MizuhL_VrLOLM-2" target="e-P1rU9MizuhL_VrLOLM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-184" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry y="3050" width="1505" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="6FSAPTBmcPyjiY5IVwyg-2" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;&lt;b&gt;Browse&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="453" y="3070" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zUydLLpw8RZfpIZgESQJ-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.mcqiulawyers.com.au/wp-content/uploads/2018/02/logo.png;clipPath=inset(0% 1.67% 0% 32.33%);" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="213" y="3100" width="148.21" height="42.67" as="geometry" />
+        </mxCell>
+        <mxCell id="zUydLLpw8RZfpIZgESQJ-6" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;&lt;b&gt;Legal Services&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="673" y="3070" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zUydLLpw8RZfpIZgESQJ-7" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;&lt;b&gt;Contact&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="1103" y="3070" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zUydLLpw8RZfpIZgESQJ-8" value="&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;Home&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;About Us&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;Contact&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="453" y="3120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zUydLLpw8RZfpIZgESQJ-9" value="&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;Conveyancing and property law&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;Entering a marriage or relationship&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Divorce and separation&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Dispute resolution and litigation&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Migration&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Estate planning - wills and probates&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Drafting contracts and other agreements&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Setting up a business&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="673" y="3183.75" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zUydLLpw8RZfpIZgESQJ-11" value="" style="group" vertex="1" connectable="0" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry y="3360" width="1505" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zUydLLpw8RZfpIZgESQJ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="zUydLLpw8RZfpIZgESQJ-11">
+          <mxGeometry y="5" width="1505" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zUydLLpw8RZfpIZgESQJ-3" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; style=&quot;font-size: 10px;&quot;&gt;Copyright 2024 McQiu Lawyers. All Rights Reserved.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=10;" vertex="1" parent="zUydLLpw8RZfpIZgESQJ-11">
+          <mxGeometry x="1223" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zUydLLpw8RZfpIZgESQJ-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="1103" y="3120.31" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zUydLLpw8RZfpIZgESQJ-14" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Suite 22, Level 11&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;809-811 Pacific Highway&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Chatswood NSW 2067&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="1149.25" y="3129.69" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zUydLLpw8RZfpIZgESQJ-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="1103" y="3205" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zUydLLpw8RZfpIZgESQJ-16" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;info@mcqiulawyers.com.au&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="1149.25" y="3199.69" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zUydLLpw8RZfpIZgESQJ-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="1103" y="3255" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zUydLLpw8RZfpIZgESQJ-18" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;(02) 8036 8333&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="Xjx0grxreHXb90qruqwC-2">
+          <mxGeometry x="1149.25" y="3249.69" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-158" value="&lt;i&gt;&lt;font color=&quot;#ffd966&quot; style=&quot;font-size: 21px;&quot;&gt;Employment page in future to attract new talent&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="1900" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-P1rU9MizuhL_VrLOLM-183" value="Query the value of having the Chinese firms here in English, if users are mostly going to be English-speaking and from Australia. Suggest removing from English site." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="2520" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="zUydLLpw8RZfpIZgESQJ-1" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font face=&quot;Montserrat&quot;&gt;&lt;b&gt;About Us&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="3090" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OmBXIOumpngrQGaAo5ag" name="page: about us">
+    <mxGraphModel dx="3585" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="40" width="1510" height="3410" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Montserrat&quot;&gt;McQiu Lawyers&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-1">
+          <mxGeometry x="60" y="12" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;mcqiulawyers.com.au&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-90" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-1">
+          <mxGeometry y="3050" width="1505" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-91" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;&lt;b&gt;Browse&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-1">
+          <mxGeometry x="453" y="3070" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-92" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.mcqiulawyers.com.au/wp-content/uploads/2018/02/logo.png;clipPath=inset(0% 1.67% 0% 32.33%);" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-1">
+          <mxGeometry x="213" y="3100" width="148.21" height="42.67" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-93" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;&lt;b&gt;Legal Services&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-1">
+          <mxGeometry x="673" y="3070" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-94" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;&lt;b&gt;Contact&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-1">
+          <mxGeometry x="1103" y="3070" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-95" value="&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;Home&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;About Us&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;Contact&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-1">
+          <mxGeometry x="453" y="3120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-96" value="&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;Conveyancing and property law&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;Entering a marriage or relationship&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Divorce and separation&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Dispute resolution and litigation&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Migration&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Estate planning - wills and probates&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Drafting contracts and other agreements&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Setting up a business&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-1">
+          <mxGeometry x="673" y="3183.75" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-97" value="" style="group" vertex="1" connectable="0" parent="8rTIZ-UF9Ub7uj6JxgT5-1">
+          <mxGeometry y="3360" width="1505" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-98" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-97">
+          <mxGeometry y="5" width="1505" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-99" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; style=&quot;font-size: 10px;&quot;&gt;Copyright 2024 McQiu Lawyers. All Rights Reserved.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=10;" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-97">
+          <mxGeometry x="1223" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-100" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-1">
+          <mxGeometry x="1103" y="3120.31" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-101" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Suite 22, Level 11&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;809-811 Pacific Highway&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Chatswood NSW 2067&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-1">
+          <mxGeometry x="1149.25" y="3129.69" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-102" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-1">
+          <mxGeometry x="1103" y="3205" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-103" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;info@mcqiulawyers.com.au&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-1">
+          <mxGeometry x="1149.25" y="3199.69" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-104" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-1">
+          <mxGeometry x="1103" y="3255" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTIZ-UF9Ub7uj6JxgT5-105" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;(02) 8036 8333&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="8rTIZ-UF9Ub7uj6JxgT5-1">
+          <mxGeometry x="1149.25" y="3249.69" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PseTD6NnFskQBhHz0hav-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.mcqiulawyers.com.au/wp-content/uploads/2018/02/logo.png;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="428" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="PseTD6NnFskQBhHz0hav-2" value="&lt;font&gt;About Us&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="186" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PseTD6NnFskQBhHz0hav-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Book a consult&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#247404;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="176.5" width="165" height="49" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aWHB_5h78efQr86iO4Jy" name="page(s): example service">
+    <mxGraphModel dx="2049" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wAw6tOa4pOldd_YnnOG--1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="40" width="1510" height="3410" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Montserrat&quot;&gt;McQiu Lawyers&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="wAw6tOa4pOldd_YnnOG--1">
+          <mxGeometry x="60" y="12" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;mcqiulawyers.com.au&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="wAw6tOa4pOldd_YnnOG--1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="wAw6tOa4pOldd_YnnOG--1">
+          <mxGeometry y="3050" width="1505" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--8" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;&lt;b&gt;Browse&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="wAw6tOa4pOldd_YnnOG--1">
+          <mxGeometry x="453" y="3070" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.mcqiulawyers.com.au/wp-content/uploads/2018/02/logo.png;clipPath=inset(0% 1.67% 0% 32.33%);" vertex="1" parent="wAw6tOa4pOldd_YnnOG--1">
+          <mxGeometry x="213" y="3100" width="148.21" height="42.67" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--10" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;&lt;b&gt;Legal Services&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="wAw6tOa4pOldd_YnnOG--1">
+          <mxGeometry x="673" y="3070" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--11" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;&lt;b&gt;Contact&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="wAw6tOa4pOldd_YnnOG--1">
+          <mxGeometry x="1103" y="3070" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--12" value="&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;Home&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;About Us&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;Contact&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="wAw6tOa4pOldd_YnnOG--1">
+          <mxGeometry x="453" y="3120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--13" value="&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;Conveyancing and property law&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;Entering a marriage or relationship&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Divorce and separation&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Dispute resolution and litigation&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Migration&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Estate planning - wills and probates&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Drafting contracts and other agreements&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Setting up a business&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="wAw6tOa4pOldd_YnnOG--1">
+          <mxGeometry x="673" y="3183.75" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--14" value="" style="group" vertex="1" connectable="0" parent="wAw6tOa4pOldd_YnnOG--1">
+          <mxGeometry y="3360" width="1505" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--15" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="wAw6tOa4pOldd_YnnOG--14">
+          <mxGeometry y="5" width="1505" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--16" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; style=&quot;font-size: 10px;&quot;&gt;Copyright 2024 McQiu Lawyers. All Rights Reserved.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=10;" vertex="1" parent="wAw6tOa4pOldd_YnnOG--14">
+          <mxGeometry x="1223" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="wAw6tOa4pOldd_YnnOG--1">
+          <mxGeometry x="1103" y="3120.31" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--18" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Suite 22, Level 11&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;809-811 Pacific Highway&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Chatswood NSW 2067&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="wAw6tOa4pOldd_YnnOG--1">
+          <mxGeometry x="1149.25" y="3129.69" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="wAw6tOa4pOldd_YnnOG--1">
+          <mxGeometry x="1103" y="3205" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--20" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;info@mcqiulawyers.com.au&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="wAw6tOa4pOldd_YnnOG--1">
+          <mxGeometry x="1149.25" y="3199.69" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="wAw6tOa4pOldd_YnnOG--1">
+          <mxGeometry x="1103" y="3255" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="wAw6tOa4pOldd_YnnOG--22" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;(02) 8036 8333&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="wAw6tOa4pOldd_YnnOG--1">
+          <mxGeometry x="1149.25" y="3249.69" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OWREBYRd5-harl6mkSfL-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.mcqiulawyers.com.au/wp-content/uploads/2018/02/logo.png;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="428" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="OWREBYRd5-harl6mkSfL-2" value="&lt;font&gt;About Us&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="186" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWREBYRd5-harl6mkSfL-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Book a consult&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#247404;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="176.5" width="165" height="49" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Q-gOZmg2_FwsRRf1GwSO" name="page: contact">
+    <mxGraphModel dx="2049" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-engRhe0H6f_84aCLa-K-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="40" width="1510" height="3410" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Montserrat&quot;&gt;McQiu Lawyers&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="-engRhe0H6f_84aCLa-K-1">
+          <mxGeometry x="60" y="12" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;mcqiulawyers.com.au&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="-engRhe0H6f_84aCLa-K-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="-engRhe0H6f_84aCLa-K-1">
+          <mxGeometry y="3050" width="1505" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-8" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;&lt;b&gt;Browse&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="-engRhe0H6f_84aCLa-K-1">
+          <mxGeometry x="453" y="3070" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.mcqiulawyers.com.au/wp-content/uploads/2018/02/logo.png;clipPath=inset(0% 1.67% 0% 32.33%);" vertex="1" parent="-engRhe0H6f_84aCLa-K-1">
+          <mxGeometry x="213" y="3100" width="148.21" height="42.67" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-10" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;&lt;b&gt;Legal Services&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="-engRhe0H6f_84aCLa-K-1">
+          <mxGeometry x="673" y="3070" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-11" value="&lt;p style=&quot;line-height: 70%; font-size: 19px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;&lt;b&gt;Contact&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="-engRhe0H6f_84aCLa-K-1">
+          <mxGeometry x="1103" y="3070" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-12" value="&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;Home&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;About Us&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;Contact&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="-engRhe0H6f_84aCLa-K-1">
+          <mxGeometry x="453" y="3120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-13" value="&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;Conveyancing and property law&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;Entering a marriage or relationship&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Divorce and separation&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Dispute resolution and litigation&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Migration&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Estate planning - wills and probates&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Drafting contracts and other agreements&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 3.8px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Setting up a business&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=19;fontColor=#000000;" vertex="1" parent="-engRhe0H6f_84aCLa-K-1">
+          <mxGeometry x="673" y="3183.75" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-14" value="" style="group" vertex="1" connectable="0" parent="-engRhe0H6f_84aCLa-K-1">
+          <mxGeometry y="3360" width="1505" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-15" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="-engRhe0H6f_84aCLa-K-14">
+          <mxGeometry y="5" width="1505" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-16" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; style=&quot;font-size: 10px;&quot;&gt;Copyright 2024 McQiu Lawyers. All Rights Reserved.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=10;" vertex="1" parent="-engRhe0H6f_84aCLa-K-14">
+          <mxGeometry x="1223" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="-engRhe0H6f_84aCLa-K-1">
+          <mxGeometry x="1103" y="3120.31" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-18" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Suite 22, Level 11&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;809-811 Pacific Highway&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot; face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Chatswood NSW 2067&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="-engRhe0H6f_84aCLa-K-1">
+          <mxGeometry x="1149.25" y="3129.69" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="-engRhe0H6f_84aCLa-K-1">
+          <mxGeometry x="1103" y="3205" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-20" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;info@mcqiulawyers.com.au&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="-engRhe0H6f_84aCLa-K-1">
+          <mxGeometry x="1149.25" y="3199.69" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=none;container=0;" vertex="1" parent="-engRhe0H6f_84aCLa-K-1">
+          <mxGeometry x="1103" y="3255" width="28.75" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="-engRhe0H6f_84aCLa-K-22" value="&lt;p style=&quot;line-height: 70%; font-size: 15px;&quot;&gt;&lt;font face=&quot;Montserrat&quot; color=&quot;#ffffff&quot;&gt;(02) 8036 8333&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;container=0;fontSize=15;" vertex="1" parent="-engRhe0H6f_84aCLa-K-1">
+          <mxGeometry x="1149.25" y="3249.69" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RIbA4SGbU_E__x0Pvy4t-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.mcqiulawyers.com.au/wp-content/uploads/2018/02/logo.png;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="428" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="RIbA4SGbU_E__x0Pvy4t-2" value="&lt;font&gt;About Us&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="186" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RIbA4SGbU_E__x0Pvy4t-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Book a consult&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#247404;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="176.5" width="165" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
