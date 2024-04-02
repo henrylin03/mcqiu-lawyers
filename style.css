@@ -97,6 +97,7 @@ header .toggle {
 
 .hero>.left>p {
     line-height: 2rem;
+    text-wrap: pretty;
 }
 
 .hero>.left>.button-group {
