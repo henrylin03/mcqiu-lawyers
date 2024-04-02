@@ -39,12 +39,17 @@ button {
 header .container-fluid {
     display: flex;
     align-items: center;
-    justify-content: space-between;
 }
 
 header .links {
     display: flex;
     justify-content: flex-end;
+}
+
+header .links>ul {
+    display: flex;
+    justify-content: space-between;
+    width: clamp(300px, 25vw, 350px);
 }
 
 header .toggle {
@@ -53,32 +58,8 @@ header .toggle {
 }
 
 .branding>img {
-    width: clamp(250px, 20vw, 550px);
+    width: clamp(250px, 22vw, 550px);
 }
-
-
-/* header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 0 auto;
-    padding-top: 10px;
-}
-
-.branding {
-    flex: 1;
-}
-
-.branding>img {
-    width: max(22vw, 50%);
-}
-
-nav {
-    width: 30%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-} */
 
 .language-switch {
     display: flex;
