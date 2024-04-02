@@ -30,7 +30,6 @@ button {
     border-radius: 10px;
     width: 100%;
     font-family: inherit;
-    font-size: inherit;
     font-weight: bold;
 }
 
@@ -101,7 +100,7 @@ header .toggle {
 .hero>.left>.button-group {
     display: flex;
     gap: 25px;
-    width: 80%;
+    width: 85%;
 }
 
 .hero-img {
