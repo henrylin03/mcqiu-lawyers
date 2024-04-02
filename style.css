@@ -31,6 +31,8 @@ button {
     width: 100%;
     font-family: inherit;
     font-weight: bold;
+    font-size: 0.75rem;
+    white-space: nowrap;
 }
 
 
@@ -103,15 +105,6 @@ header .toggle {
     width: 85%;
 }
 
-.hero-img {
-    background-image: url("./assets/hero.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    border-radius: 15px;
-    height: 100%;
-}
-
 button.filled {
     background-color: var(--primary-colour);
     color: white;
@@ -137,4 +130,13 @@ button.outline:hover {
 
 button.outline:active {
     background-color: hsl(103, 50%, 90%);
+}
+
+.hero-img {
+    background-image: url("./assets/hero.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    height: 100%;
 }
