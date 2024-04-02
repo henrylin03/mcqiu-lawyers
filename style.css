@@ -52,17 +52,25 @@ nav {
     align-self: stretch;
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: center;
+    gap: 25px;
 }
 
 .hero>.left>h1 {
     font-size: 3rem;
     font-weight: 400;
     line-height: 4.3rem;
+    text-wrap: balance;
 }
 
 .hero>.left>p {
     line-height: 1.5rem;
+}
+
+.hero>.left>.button-group {
+    display: flex;
+    width: 50%;
+    gap: 25px;
 }
 
 .hero img {
