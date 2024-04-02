@@ -92,8 +92,11 @@ button {
     width: 80%;
 }
 
-.hero img {
-    width: 100%;
+.hero-img {
+    background-image: url("./assets/hero.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     border-radius: 15px;
 }
 
