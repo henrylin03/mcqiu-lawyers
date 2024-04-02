@@ -4,17 +4,25 @@
     box-sizing: border-box;
 }
 
+body {
+    max-width: 60%;
+    margin: 0 auto;
+}
+
 header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    max-width: 60%;
     margin: 0 auto;
     padding-top: 10px;
 }
 
 .branding {
     flex: 1;
+}
+
+.branding>img {
+    width: max(22vw, 50%);
 }
 
 nav {
