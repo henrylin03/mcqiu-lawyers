@@ -13,7 +13,7 @@
 }
 
 body {
-    max-width: 60%;
+    max-width: 50%;
     margin: 0 auto;
     font-family: "Montserrat", sans-serif;
 }
@@ -58,8 +58,21 @@ header .toggle {
     width: 10%;
 }
 
-.branding>img {
+.branding .logo-with-text {
     width: clamp(250px, 22vw, 550px);
+
+    @media (max-width: 1000px) {
+        display: none;
+    }
+}
+
+.branding .logo-no-text {
+    display: none;
+    width: clamp(100px, 15vw, 125px);
+
+    @media (max-width: 1000px) {
+        display: block;
+    }
 }
 
 .language-switch {
@@ -76,7 +89,7 @@ header .toggle {
 /* hero */
 .hero {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     gap: 25px;
 }
 
@@ -141,7 +154,7 @@ button.outline:active {
     border-radius: 15px;
     height: 100%;
 
-    @media (max-width: 1300px) {
+    @media (max-width: 1660px) {
         display: none;
     }
 }
