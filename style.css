@@ -76,7 +76,7 @@ header .toggle {
 /* hero */
 .hero {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     gap: 25px;
 }
 
@@ -139,4 +139,8 @@ button.outline:active {
     background-size: cover;
     border-radius: 15px;
     height: 100%;
+
+    @media (max-width: 1300px) {
+        display: none;
+    }
 }
