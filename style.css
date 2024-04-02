@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+:root {
+    --primary-colour: hsl(103, 93%, 24%);
+    --secondary-colour: hsl(38, 100%, 77%);
+    --highlight-colour: hsl(337, 100%, 40%);
+}
+
 * {
     padding: 0;
     margin: 0;
@@ -88,4 +94,23 @@ button {
 .hero img {
     width: 100%;
     border-radius: 15px;
+}
+
+button.filled {
+    background-color: var(--primary-colour);
+    color: white;
+}
+
+button.filled:hover {
+    filter: brightness(110%);
+}
+
+button.outline {
+    background-color: white;
+    color: var(--primary-colour);
+    border: 2.5px solid var(--primary-colour);
+}
+
+button.outline:hover {
+    background-color: hsl(103, 80%, 95%);
 }
