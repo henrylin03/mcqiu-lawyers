@@ -24,3 +24,9 @@ nav {
     justify-content: flex-end;
     gap: 30px;
 }
+
+.language-switch {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
