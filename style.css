@@ -36,6 +36,22 @@ button {
 
 
 /* header */
+header .container-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .links {
+    display: flex;
+    justify-content: flex-end;
+}
+
+header .toggle {
+    width: 10%;
+}
+
+
 /* header {
     display: flex;
     align-items: center;
