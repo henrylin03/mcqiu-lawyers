@@ -36,33 +36,40 @@ button {
 
 
 /* header */
-header {
+header .container-fluid {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    margin: 0 auto;
-    padding-top: 10px;
 }
 
-.branding {
-    flex: 1;
+header .links {
+    display: flex;
+    justify-content: flex-end;
+}
+
+header .links>ul {
+    display: flex;
+    justify-content: space-between;
+    width: clamp(300px, 25vw, 350px);
+}
+
+header .toggle {
+    border: none;
+    width: 10%;
 }
 
 .branding>img {
-    width: max(22vw, 50%);
-}
-
-nav {
-    width: 30%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+    width: clamp(250px, 22vw, 550px);
 }
 
 .language-switch {
     display: flex;
     align-items: center;
     gap: 2px;
+    margin: 0;
+}
+
+.language-switch>p {
+    margin: 0;
 }
 
 /* hero */
