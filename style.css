@@ -55,6 +55,11 @@ nav {
     justify-content: space-evenly;
 }
 
+.hero>.left>h1 {
+    font-size: 3rem;
+    font-weight: 400;
+}
+
 .hero img {
     width: 100%;
 }
