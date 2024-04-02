@@ -48,7 +48,12 @@ header .links {
 }
 
 header .toggle {
+    border: none;
     width: 10%;
+}
+
+.branding>img {
+    width: clamp(250px, 20vw, 550px);
 }
 
 
