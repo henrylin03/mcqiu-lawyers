@@ -80,11 +80,16 @@ nav {
     justify-content: space-between;
 } */
 
-/* .language-switch {
+.language-switch {
     display: flex;
     align-items: center;
     gap: 2px;
-} */
+    margin: 0;
+}
+
+.language-switch>p {
+    margin: 0;
+}
 
 /* hero */
 .hero {
