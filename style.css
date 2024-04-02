@@ -12,6 +12,7 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 
+/* header */
 header {
     display: flex;
     align-items: center;
@@ -39,4 +40,18 @@ nav {
     display: flex;
     align-items: center;
     gap: 2px;
+}
+
+/* hero */
+.hero {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.hero>.left {
+    align-self: center;
+}
+
+.hero img {
+    width: 100%;
 }
