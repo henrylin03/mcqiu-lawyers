@@ -153,6 +153,7 @@ button.outline:active {
     background-size: cover;
     border-radius: 15px;
     height: 100%;
+    box-shadow: 18px 16px 0px 0px var(--secondary-colour);
 
     @media (max-width: 1660px) {
         display: none;
