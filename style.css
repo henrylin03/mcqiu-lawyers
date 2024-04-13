@@ -168,10 +168,15 @@ button.outline:active {
 }
 
 .reason-item {
+    text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     gap: 5px;
+}
+
+.reason-item .heading {
+    font-size: 1.1rem;
 }
 
 .reason-item .reason {
