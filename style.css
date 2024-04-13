@@ -161,3 +161,8 @@ button.outline:active {
 }
 
 /* Why McQiu? Section */
+#why-mcqiu .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(275px, 1fr));
+    gap: 25px;
+}
