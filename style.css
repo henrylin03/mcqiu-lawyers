@@ -59,9 +59,9 @@ header .toggle {
 }
 
 .branding .logo-with-text {
-    width: clamp(250px, 22vw, 550px);
+    width: clamp(250px, 17vw, 300px);
 
-    @media (max-width: 1000px) {
+    @media (max-width: 1050px) {
         display: none;
     }
 }
@@ -70,7 +70,7 @@ header .toggle {
     display: none;
     width: clamp(100px, 15vw, 125px);
 
-    @media (max-width: 1000px) {
+    @media (max-width: 1050px) {
         display: block;
     }
 }
