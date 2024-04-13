@@ -35,6 +35,10 @@ button {
     white-space: nowrap;
 }
 
+button:active {
+    transform: scale(0.98);
+}
+
 
 /* header */
 header .container-fluid {
@@ -139,11 +143,11 @@ button.outline {
 }
 
 button.outline:hover {
-    background-color: hsl(103, 20%, 95%);
+    background-color: hsl(103, 20%, 96%);
 }
 
 button.outline:active {
-    background-color: hsl(103, 50%, 90%);
+    background-color: hsl(103, 10%, 92%);
 }
 
 .hero-img {
