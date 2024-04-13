@@ -168,11 +168,11 @@ button.outline:active {
 }
 
 .reason-item {
-    text-align: center;
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
+    align-items: center;
     gap: 5px;
+    text-align: center;
 }
 
 .reason-item .heading {
