@@ -167,8 +167,8 @@ button.outline:active {
 /* Why McQiu? Section */
 #why-mcqiu .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(275px, 1fr));
-    gap: 25px;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 75px;
     margin-top: 25px;
 }
 
@@ -176,7 +176,7 @@ button.outline:active {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 5px;
+    gap: 10px;
     text-align: center;
     line-height: 1.75rem;
 }
@@ -192,6 +192,7 @@ button.outline:active {
 }
 
 .reason-item button {
+    margin-top: 5px;
     width: 200px;
 }
 
