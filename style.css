@@ -165,6 +165,7 @@ button.outline:active {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(275px, 1fr));
     gap: 25px;
+    margin-top: 25px;
 }
 
 .reason-item {
@@ -186,4 +187,9 @@ button.outline:active {
 
 .reason-item button {
     width: 200px;
+}
+
+.reason-item .icon {
+    height: 50px;
+    margin-bottom: 5px;
 }
