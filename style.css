@@ -171,14 +171,14 @@ button.outline:active {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    gap: 10px;
+    gap: 5px;
 }
 
 .reason-item .reason {
     flex: 1;
+    text-wrap: pretty;
 }
 
-.btn-container {
-    display: flex;
-    justify-content: flex-end;
+.reason-item button {
+    width: 200px;
 }
