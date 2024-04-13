@@ -15,7 +15,7 @@
 body {
     max-width: 50%;
     margin: 0 auto;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
 }
 
 section {
