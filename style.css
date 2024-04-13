@@ -166,3 +166,19 @@ button.outline:active {
     grid-template-columns: repeat(auto-fit, minmax(275px, 1fr));
     gap: 25px;
 }
+
+.reason-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.reason-item .reason {
+    flex: 1;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: flex-end;
+}
