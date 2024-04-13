@@ -188,6 +188,7 @@ button.outline:active {
 .reason-item .reason {
     flex: 1;
     text-wrap: pretty;
+    margin-top: -5px;
 }
 
 .reason-item button {
